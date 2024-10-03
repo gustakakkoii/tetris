@@ -15,6 +15,8 @@ No jogo, as peças de Tetris caem do topo da tela, e o jogador deve movê-las e 
 
 ### Jogo em Ação
 ![Jogo em Ação](readme/imagem1.png)
+### Game Over
+![Game Over](readme/imagem2.png)
 
 ## 🛠️ Como Executar o Jogo
 
@@ -25,7 +27,7 @@ No jogo, as peças de Tetris caem do topo da tela, e o jogador deve movê-las e 
    ```
 3. Acesse o diretório do projeto:
    ```bash
-   cd tetris-game
+   cd tetris
    ```
 4. Execute o jogo:
    ```bash
